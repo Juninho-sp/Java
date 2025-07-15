@@ -10,7 +10,7 @@
 ## 🚀 Como Executar
 ***
 * Clone o repositório:
-git clone https://github.com/lobaosilva/java-basic-exercises.git
+git clone https://github.com/Juninho-sp/Java.git
 
 * Abra o projeto: Abra o projeto no seu IDE preferido (ex: Apache NetBeans).
 * Localize o arquivo .java  que deseja executar.
